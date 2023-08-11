@@ -2,8 +2,7 @@
 
 🌐 Web Developer | JavaScript Enthusiast
 
-🚀 Creating seamless and engaging web experiences is my passion. I thrive on turning ideas into interactive and user-friendly websites.
-   Front-end magic with HTML, CSS, and JavaScript is my playground, and I'm always eager to learn and experiment with the latest web technologies.
+🚀 Creating seamless and engaging web experiences is my passion. I thrive on turning ideas into interactive and user-friendly websites.Front-end magic with HTML, CSS, and JavaScript is my playground, and I'm always eager to learn and experiment with the latest web technologies.
 
 🎨 UI/UX Design | Responsive Layouts | Web Accessibility
 
