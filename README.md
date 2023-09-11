@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://codepen.io/birmehto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="birmehto" height="30" width="40" /></a>
 <a href="https://twitter.com/birmehto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="birmehto" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/birmehto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/birmehto" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/birmehto?originalSubdomain=in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/birmehto" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/birmehto/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/birmehto/?hl=en" height="30" width="40" /></a>
 <a href="https://medium.com/@birmehto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@birmehto" height="30" width="40" /></a>
 </p>
