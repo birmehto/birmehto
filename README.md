@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 💬 Ask me about **flutter , javascript**
+- 💬 Ask me about **Flutter , Javascript**
 
 - 📫 How to reach me **birmehto@gmail.com**
 
