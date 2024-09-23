@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bir Mehto</h1>
+<h1 align="center">Hi 👋, I'm Bir</h1>
 <h3 align="center">Passionate Android Developer from India</h3>
 
 - 🌱 I’m currently exploring **Android Development** and always eager to learn new technologies.
