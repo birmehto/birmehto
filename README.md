@@ -36,12 +36,6 @@ You can reach me at **birmehto@gmail.com**
 <h3 align="left">💻 Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,git,android,dart,figma,firebase,kotlin&theme=light" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=flutter,git,dart,figma,firebase,kotlin,mint,linux,androidstudio&theme=dark" alt="My Skills">
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=birmehto&show_icons=true&theme=radical" alt="Bir's GitHub stats">
 </p>
