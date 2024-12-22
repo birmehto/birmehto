@@ -7,13 +7,18 @@
 
 ---
 
-- 🌱 I’m currently exploring **Android Development** and always eager to learn new technologies.
-- 💬 Feel free to ask me about **Flutter, JavaScript, or Android Development**.
-- 📫 You can reach me at **birmehto@gmail.com**
+### 🌱 Currently Learning
+I’m currently exploring **Android Development** and am always eager to learn new technologies.
+
+### 💬 Ask Me About
+Feel free to ask me about **Flutter, JavaScript, or Android Development**.
+
+### 📫 Contact Me
+You can reach me at **birmehto@gmail.com**
 
 ---
 
-<h3 align="left">🔗 Connect with me:</h3>
+<h3 align="left">🔗 Connect with Me:</h3>
 <p align="left">
   <a href="https://twitter.com/birmehto" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
