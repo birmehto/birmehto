@@ -11,7 +11,7 @@
 I’m currently exploring **Android Development** and am always eager to learn new technologies.
 
 ### 💬 Ask Me About
-Feel free to ask me about **Flutter, JavaScript, or Android Development**.
+Feel free to ask me about **Flutter or Android Development**.
 
 ### 📫 Contact Me
 You can reach me at **birmehto@gmail.com**
