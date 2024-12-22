@@ -36,6 +36,6 @@ You can reach me at **birmehto@gmail.com**
 <h3 align="left">💻 Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,kotlin,git,figma,mint,linux,androidstudio&theme=dark" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,kotlin,git,figma,linux,androidstudio&theme=dark" alt="My Skills">
   </a>
 </p>
