@@ -58,8 +58,3 @@ You can reach me at **birmehto@gmail.com**
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=birmehto&show_icons=true&theme=radical" alt="Bir's GitHub stats">
-</p>
