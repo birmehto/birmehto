@@ -2,7 +2,7 @@ name: Generate Snake Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight
+    - cron: "0 0 * * *"  # Runs daily
   workflow_dispatch:     # Allows manual execution
 
 jobs:
@@ -16,7 +16,7 @@ jobs:
           outputs: dist/snake.svg
 
       - name: Upload artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4  # 🔹 Updated from v3 to v4
         with:
           name: snake-gif
           path: dist/snake.svg
