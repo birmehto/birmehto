@@ -43,10 +43,4 @@
 
 ---
 
-### 🐍 Contribution Graph
-![Snake animation](https://github.com/birmehto/birmehto/blob/output/snake.svg)
-
-
----
-
 🚀 **Let’s build something amazing!**  
