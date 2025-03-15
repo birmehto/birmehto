@@ -1,24 +1,37 @@
-<h1 align="center">Hi 👋, I'm Bir</h1>
-<h3 align="center">A Passionate Flutter Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Bir Mehto</h1>
+<h3 align="center">🚀 Passionate Flutter Developer | Android Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=birmehto&style=flat-square&color=blue" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=birmehto&style=flat-square&color=blue" alt="Profile Views">
 </p>
 
 ---
 
-### 🌱 Currently Learning
-I’m currently exploring **Android Development** and am always eager to learn new technologies.
-
-### 💬 Ask Me About
-Feel free to ask me about **Flutter or Android Development**.
-
-### 📫 Contact Me
-You can reach me at **birmehto@gmail.com**
+## 🚀 About Me  
+👨‍💻 I'm a **Flutter Developer** with experience in building mobile and Android TV applications.  
+📱 I specialize in **Flutter, Dart, and Firebase**, and I'm always eager to explore new technologies.  
+💡 Currently, I'm expanding my knowledge in **Android Development**.  
 
 ---
 
-<h3 align="left">🔗 Connect with Me:</h3>
+## 📚 What I'm Learning  
+- 📌 **State Management:** Exploring **GetX** for efficient state handling in Flutter.  
+- 📌 **Android Development:** Enhancing my skills in **native Android development**.  
+
+---
+
+## 💬 Ask Me About  
+- 🚀 **Flutter Development**  
+- 🔥 **State Management (GetX, Provider, Bloc, etc.)**  
+- 📲 **Mobile App Deployment (Google Play Store, Amazon Appstore)**  
+- 🔧 **Firebase Integration in Flutter Apps**  
+
+---
+
+## 📫 Connect with Me  
+💌 Feel free to reach out via **[Email](mailto:birmehto@gmail.com)**  
+
+### 🌐 Social Media  
 <p align="left">
   <a href="https://twitter.com/birmehto" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
@@ -33,9 +46,13 @@ You can reach me at **birmehto@gmail.com**
 
 ---
 
-<h3 align="left">💻 Languages and Tools:</h3>
+## ⚡ Tech Stack & Tools  
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,kotlin,git,figma,linux,androidstudio&theme=dark" alt="My Skills">
   </a>
 </p>
+
+---
+
+⭐ **Let's connect and build amazing apps together!**  
