@@ -1,0 +1,39 @@
+name: Generate GitHub Snake
+
+on:
+  schedule:
+    - cron: '0 2 * * *'   # daily at 02:00 UTC (adjust as you like)
+  workflow_dispatch:
+
+permissions:
+  contents: write   # REQUIRED if you want to commit files back to the repo
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Generate snake images
+        uses: Platane/snk@v3
+        with:
+          # default is repo owner; change if you want another user
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Commit generated images
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions[bot]
+          author_email: 41898282+github-actions[bot]@users.noreply.github.com
+          message: chore: update github-snake images
+          add: 'dist/*'
+          push: true
+          skip_ci: true
