@@ -46,7 +46,8 @@
 <div align="center">
   <img 
     src="https://raw.githubusercontent.com/birmehto/birmehto/main/dist/github-snake-dark.svg" 
-    alt="GitHub Snake Dark"/>
+    alt="GitHub Snake Dark" 
+    width="800" />
 </div>
 
 
