@@ -44,8 +44,11 @@
 ## 🐍 Contribution Graph
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/birmehto/birmehto/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img 
+    src="https://raw.githubusercontent.com/birmehto/birmehto/main/dist/github-snake-dark.svg" 
+    alt="GitHub Snake Dark"/>
 </div>
+
 
 ---
 
