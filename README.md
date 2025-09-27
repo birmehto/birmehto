@@ -34,7 +34,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=birmehto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=birmehto&theme=tokyonight&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F"/>
 </div>
 
