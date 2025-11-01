@@ -1,7 +1,6 @@
 <div align="center">
 
 # 👨‍💻 Bir Mehto
-### Flutter & Android Developer
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=400&lines=Flutter+Developer;Android+Expert;Open+Source+Lover)](https://git.io/typing-svg)
 
