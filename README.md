@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bir%20Mehto&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Bir%20Mehto&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Flutter+%7C+Android+%7C+Kotlin;Building+Beautiful+Apps+%F0%9F%9A%80;Clean+Code+Enthusiast+%E2%9C%A8)](https://git.io/typing-svg)
 
@@ -105,7 +105,11 @@ class Developer {
 ## 🐍 Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/birmehto/birmehto/output/github-snake-dark.svg" alt="Snake animation" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/birmehto/birmehto/main/dist/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/birmehto/birmehto/main/dist/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/birmehto/birmehto/main/dist/github-snake.svg">
+  </picture>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
