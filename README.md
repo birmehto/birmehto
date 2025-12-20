@@ -1,13 +1,14 @@
-# Bir Mehto
+# 👋 Hi, I'm Bir Mehto
 
-Software Engineer — Mobile
+**Mobile Software Engineer**
 
-Builds and maintains mobile features with a focus on correctness,
-performance, and clean architecture.
+I build and maintain mobile applications with a strong focus on correctness, performance, and clean architecture.
 
-**Mobile:** Flutter, Android  
-**Languages:** Dart, Kotlin, Java  
-**Practices:** State management, testing, performance optimization  
+## 🚀 Tech Stack
+- **Mobile:** Flutter, Android
+- **Languages:** Dart, Kotlin, Java
+- **Focus:** State management, testing, performance optimization
 
-📧 birmehto@gmail.com  
-🔗 linkedin.com/in/birmehto
+## 📫 Contact
+- Email: birmehto@gmail.com  
+- LinkedIn: https://linkedin.com/in/birmehto
