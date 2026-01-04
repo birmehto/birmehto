@@ -1,37 +1,27 @@
 # 👋 Bir Mehto  
-**Mobile Software Engineer — Flutter & Android**
+**Flutter & Android Developer**
 
-I build **fast, scalable mobile apps** with a strong focus on **clean architecture, testability, and performance**.  
-I care about **maintainable code and real-world reliability**, not just UI.
-
----
-
-## 🧠 Core Skills
-- **Flutter** — Clean Architecture, Riverpod, GetX, performance tuning  
-- **Android (Kotlin)** — Jetpack, MVVM, Compose  
-- **Architecture** — SOLID, layered, domain-driven  
-- **State** — Riverpod, GetX  
-- **Networking** — REST, Dio, WebSockets  
-- **Testing** — Unit, widget, integration  
-- **Optimization** — isolates, memory, API caching  
+I build **fast, reliable mobile apps** with **clean architecture and strong performance**.
 
 ---
 
-## 🚀 Tech Stack
-| Area | Tech |
-|------|------|
-| Mobile | Flutter, Android |
-| Languages | Dart, Kotlin, Java |
-| State | Riverpod, GetX |
-| Networking | Dio, Retrofit |
-| Backend | REST, Firebase |
-| Tools | Git, CI/CD, Linux |
+## 🧠 Skills
+- Flutter (Riverpod, GetX)  
+- Android (Kotlin, Compose)  
+- Clean Architecture, SOLID  
+- REST, Dio, Firebase  
+- Testing & Performance  
+
+---
+
+## 🚀 Tech
+Flutter · Android · Dart · Kotlin · Riverpod · GetX · REST · Git · Linux  
 
 ---
 
 ## 📫 Contact
-- **Email:** birmehto@gmail.com  
-- **LinkedIn:** linkedin.com/in/birmehto  
+**birmehto@gmail.com**  
+**linkedin.com/in/birmehto**
 
 ---
 
@@ -40,4 +30,3 @@ I care about **maintainable code and real-world reliability**, not just UI.
   <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
   <img alt="github-snake" src="dist/github-snake.svg" />
 </picture>
-
