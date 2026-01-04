@@ -1,38 +1,37 @@
-# 👋 Bir Mehto
+# 👋 Bir Mehto  
+**Mobile Software Engineer — Flutter & Android**
 
-**Mobile Software Engineer | Flutter & Android Specialist**
-
-I build **high-performance, scalable mobile apps** with a strong focus on **clean architecture, testability, and runtime efficiency**.  
-I care about **code quality, long-term maintainability, and real-world performance** — not just UI.
+I build **fast, scalable mobile apps** with a strong focus on **clean architecture, testability, and performance**.  
+I care about **maintainable code and real-world reliability**, not just UI.
 
 ---
 
-## 🧠 Core Expertise
-- **Flutter** — Clean Architecture, Riverpod/GetX, performance tuning  
+## 🧠 Core Skills
+- **Flutter** — Clean Architecture, Riverpod, GetX, performance tuning  
 - **Android (Kotlin)** — Jetpack, MVVM, Compose  
-- **Architecture** — Domain-driven design, layered architecture, SOLID  
-- **State Management** — Riverpod, GetX  
+- **Architecture** — SOLID, layered, domain-driven  
+- **State** — Riverpod, GetX  
 - **Networking** — REST, Dio, WebSockets  
-- **Testing** — Unit, widget, and integration testing  
-- **Optimization** — Isolates, memory, frame-time, API caching  
+- **Testing** — Unit, widget, integration  
+- **Optimization** — isolates, memory, API caching  
 
 ---
 
 ## 🚀 Tech Stack
-| Layer | Tech |
+| Area | Tech |
 |------|------|
 | Mobile | Flutter, Android |
 | Languages | Dart, Kotlin, Java |
 | State | Riverpod, GetX |
 | Networking | Dio, Retrofit |
-| Backend | REST APIs, Firebase |
-| Tooling | Git, CI/CD, Linux |
+| Backend | REST, Firebase |
+| Tools | Git, CI/CD, Linux |
 
 ---
 
 ## 📫 Contact
-- **Email:** [birmehto@gmail.com](mailto:birmehto@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/birmehto](https://linkedin.com/in/birmehto)
+- **Email:** birmehto@gmail.com  
+- **LinkedIn:** linkedin.com/in/birmehto  
 
 ---
 
