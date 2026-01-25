@@ -20,9 +20,7 @@ Flutter · Android · Dart · Kotlin · Riverpod · GetX · REST · Git · Linux
 ---
 
 ## 📫 Contact
-**birmehto@gmail.com**  
-**linkedin.com/in/birmehto**
-
+**birmehto@gmail.com**
 ---
 
 <picture>
