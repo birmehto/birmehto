@@ -1,28 +1,37 @@
-<h1 align="center">Hi, I'm Bir 👋</h1>
-<h3 align="center">Flutter & Android Developer</h3>
+<div align="center">
 
-- 🔭 Building production-ready apps with **Flutter & Android**
-- 💬 Ask me about **Mobile Application Development**
-- 💼 Portfolio: https://birmehto.netlify.app
+# Bir Mehto
+### Flutter & Android Developer · Building apps that just *work*
 
----
-
-I’m a **Mobile Application Developer** focused on building **fast, scalable, and maintainable applications**.  
-I care deeply about **clean architecture**, **performance**, and **real-world usability**—code that scales and stays easy to maintain.
+[![Portfolio](https://img.shields.io/badge/Portfolio-birmehto.netlify.app-0f0f0f?style=flat-square&logo=netlify&logoColor=white)](https://birmehto.netlify.app)
+[![Email](https://img.shields.io/badge/Email-birmehto@gmail.com-0f0f0f?style=flat-square&logo=gmail&logoColor=white)](mailto:birmehto@gmail.com)
+</div>
 
 ---
 
-### 🧠 Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,java,firebase,git,github,postman,figma,linux,vscode&perline=8)](https://skillicons.dev)
+I'm a **Mobile Application Developer** who cares about the craft — clean architecture, real-world performance, and code that's still readable six months later. I build with **Flutter & Android**, and I hold the bar high from first commit to production.
 
 ---
 
-### 📊 GitHub Stats
+## 🛠 Tech Stack
+
+[![Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase,git,github,postman,figma,linux,vscode&perline=6)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
 [![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=birmehto&theme=radical)](https://github.com/birmehto)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=birmehto&theme=radical)](https://github.com/birmehto)
+
+</div>
 
 ---
 
-### 📫 Contact
-📧 **birmehto@gmail.com**
+## 📬 Let's connect
 
----
+Got a project in mind or just want to talk mobile dev? Reach out — I'm always open to interesting problems.
+
+**birmehto@gmail.com** · [birmehto.netlify.app](https://birmehto.netlify.app)
