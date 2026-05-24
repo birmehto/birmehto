@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Bir Mehto 👋👨‍💻</h1>
+<h1 align="center">Hi, I'm Bir 👋</h1>
 <h3 align="center">Flutter & Android Developer</h3>
 
 - 🔭 Building production-ready apps with **Flutter & Android**
