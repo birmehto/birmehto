@@ -15,7 +15,7 @@ I'm a **Mobile Application Developer** who cares about the craft — clean archi
 
 ## 🛠 Tech Stack
 
-[![Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase,git,github,postman,figma,linux,vscode&perline=6)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,python,androidstudio,firebase,supabase,nodejs,mysql,sqlite,git,github,postman,figma,linux,vscode\&perline=6)](https://skillicons.dev)
 
 ---
 
@@ -23,15 +23,12 @@ I'm a **Mobile Application Developer** who cares about the craft — clean archi
 
 <div align="center">
 
-[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=birmehto&theme=radical)](https://github.com/birmehto)
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=birmehto&theme=radical)](https://github.com/birmehto)
+<img src="https://github-readme-stats.vercel.app/api?username=birmehto
+&show_icons=true&theme=radical&hide_border=true" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birmehto
+&layout=compact&theme=radical&hide_border=true" height="165" />
+
+<img src="https://streak-stats.demolab.com?user=BirMehto&theme=radical&hide_border=true" height="165" />
 
 </div>
-
----
-
-## 📬 Let's connect
-
-Got a project in mind or just want to talk mobile dev? Reach out — I'm always open to interesting problems.
-
-**birmehto@gmail.com** · [birmehto.netlify.app](https://birmehto.netlify.app)
