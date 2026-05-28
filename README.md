@@ -22,13 +22,6 @@ I'm a **Mobile Application Developer** who cares about the craft — clean archi
 ## 📊 GitHub Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=birmehto
-&show_icons=true&theme=radical&hide_border=true" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birmehto
-&layout=compact&theme=radical&hide_border=true" height="165" />
-
 <img src="https://streak-stats.demolab.com?user=BirMehto&theme=radical&hide_border=true" height="165" />
 
 </div>
